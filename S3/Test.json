@@ -1,0 +1,21 @@
+{
+    "interpretations": [
+        {
+            "intent": {
+                "name": "creates3bucket",
+                "slots": {
+                    "BucketName": {
+                        "value": {
+                            "interpretedValue": "testcreatemybucket2"
+                        }
+                    },
+                    "RegionName": {
+                        "value": {
+                            "interpretedValue": "us-east-2"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
